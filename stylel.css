@@ -63,4 +63,6 @@ h1 {
 article:hover {
     box-shadow: 10px 10px 10px 10px pink;
     transition: all 0.3s linear;
+    height: 320px;
+    font-size: 32px;
 }
